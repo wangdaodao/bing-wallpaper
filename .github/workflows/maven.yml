@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '1 0-23 * * *'
+    - cron: "30 0 * * *"
 
 jobs:
   build:
@@ -25,6 +25,8 @@ jobs:
         run: java -jar target/bing-wallpaper-jar-with-dependencies.jar
       - name: Commit files
         run: |
+          git config --local user.email "hi@wangdaodao.com"
+          git config --local user.name "wangdaodao"
           git pull
           git add README.md
           git add bing-wallpaper.md
