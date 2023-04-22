@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-04-22 | [岛屿灰狐，海峡群岛国家公园，美国加利福尼亚州 (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.EarthDayFox_ZH-CN7926350207_UHD.jpg) 
+
 2023-04-21 | [普罗奇达岛，意大利 (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_ZH-CN7712975930_UHD.jpg) 
 
 2023-04-19 | [褐头凤鹛 (© Staffan Widstrand/Minden Pictures)](https://cn.bing.com/th?id=OHR.TaiwanYuhina_ZH-CN6541884178_UHD.jpg) 
