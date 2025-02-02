@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-02 | [年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)](https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg) 
+
 2025-02-01 | [国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)](https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg) 
 
 2025-01-31 | [日出时的平原斑马，莫卡拉国家公园，南非 (© EcoPrint/Shutterstock)](https://cn.bing.com/th?id=OHR.PlainsZebra_ZH-CN1989542307_UHD.jpg) 
