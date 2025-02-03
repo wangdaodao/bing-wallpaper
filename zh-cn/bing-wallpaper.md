@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-02-03 | [盛开的樱花树上的红头长尾山雀 (© Haitong Yu/Getty Images)](https://cn.bing.com/th?id=OHR.BeginningofSpring25Y_ZH-CN7356156800_UHD.jpg) 
+
 2025-02-02 | [年幼的高山土拨鼠 (© Jonas Fichtner-Pflaum/Getty Images)](https://cn.bing.com/th?id=OHR.AustriaMarmot_ZH-CN2303743586_UHD.jpg) 
 
 2025-02-01 | [国王岩堡垒 , 瑞士撒克逊, 德国 (© Bildagentur-online/Exss/Alamy)](https://cn.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ZH-CN2192655745_UHD.jpg) 
