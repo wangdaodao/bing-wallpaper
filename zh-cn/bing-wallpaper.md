@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-03-14 | [索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)](https://cn.bing.com/th?id=OHR.BasqueDolmen_ZH-CN2364777801_UHD.jpg) 
+
 2025-03-12 | [卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国 (© StockPhotoAstur/Shutterstock)](https://cn.bing.com/th?id=OHR.ChateauLoire_ZH-CN5040147638_UHD.jpg) 
 
 2025-03-11 | [努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚 (© joakimbkk/Getty Images)](https://cn.bing.com/th?id=OHR.NusaPenida_ZH-CN4934656933_UHD.jpg) 
