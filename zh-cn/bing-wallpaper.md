@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-06-23 | [德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.DresdenElbe_ZH-CN8776977800_UHD.jpg) 
+
 2025-06-22 | [亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)](https://cn.bing.com/th?id=OHR.AmazonEcuador_ZH-CN2864991745_UHD.jpg) 
 
 2025-06-20 | [一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)](https://cn.bing.com/th?id=OHR.SerengetiGiraffe_ZH-CN2613013393_UHD.jpg) 
