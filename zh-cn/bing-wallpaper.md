@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-08-11 | [圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_ZH-CN7421083295_UHD.jpg) 
+
 2025-08-10 | [马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_ZH-CN6791029673_UHD.jpg) 
 
 2025-08-09 | [陶波湖上的 Ngātoroirangi 矿湾毛利石刻, 新西兰 (© Joppi/Getty Images)](https://cn.bing.com/th?id=OHR.MaoriRock_ZH-CN5614685493_UHD.jpg) 
