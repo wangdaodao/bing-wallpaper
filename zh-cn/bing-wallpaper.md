@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-10-07 | [里奇韦附近斯内弗尔斯山脚下的秋色, 科罗拉多州, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_ZH-CN8735375502_UHD.jpg) 
+
 2025-10-06 | [安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.AnshunBridge_ZH-CN8392458102_UHD.jpg) 
 
 2025-10-05 | [中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_ZH-CN8289875605_UHD.jpg) 
