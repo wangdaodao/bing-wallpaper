@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2025-11-02 | [岚山缤纷的枫叶与竹林, 京都, 日本 (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_ZH-CN4730358356_UHD.jpg) 
+
 2025-11-01 | [野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg) 
 
 2025-10-31 | [布兰城堡入口, 布拉索夫, 罗马尼亚 (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_ZH-CN3879660917_UHD.jpg) 
