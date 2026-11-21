@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2026-11-21 | [法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)](https://cn.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg) 
+
 2026-11-20 | [正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg) 
 
 2026-11-18 | [一对仓鸮 (© Zahoor Salmi/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg) 
